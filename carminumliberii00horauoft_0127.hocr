@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carminumliberii00horauoft_0127.png"; bbox 0 0 1552 2424; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 437 252 1378 2396">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 437 252 1378 2396">
+     <span class='ocr_line' id='line_1_1' title="bbox 437 252 1378 2396; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 437 252 1378 2396; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 234 765 375 2390">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 234 765 375 2390">
+     <span class='ocr_line' id='line_1_2' title="bbox 282 765 375 2315; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 282 765 344 898; x_wconf 60' lang='lat' dir='ltr'>,m</span> <span class='ocrx_word' id='word_1_3' title='bbox 286 928 342 993; x_wconf 50' lang='lat' dir='ltr'>Rq</span> <span class='ocrx_word' id='word_1_4' title='bbox 289 1032 336 1123; x_wconf 67' lang='grc' dir='ltr'>,ΡΘ</span> <span class='ocrx_word' id='word_1_5' title='bbox 294 1164 348 1256; x_wconf 65' lang='lat'>511</span> <span class='ocrx_word' id='word_1_6' title='bbox 299 1291 346 1455; x_wconf 53' lang='lat' dir='ltr'>aeq-51</span> <span class='ocrx_word' id='word_1_7' title='bbox 307 1489 356 1752; x_wconf 54' lang='lat' dir='ltr'>mutu-180</span> <span class='ocrx_word' id='word_1_8' title='bbox 323 1989 375 2315; x_wconf 60' lang='lat' dir='ltr'>WssT-TSH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 234 1360 309 2390; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 234 1360 281 1491; x_wconf 56' lang='grc' dir='ltr'>προ</span> <span class='ocrx_word' id='word_1_10' title='bbox 248 1664 294 1888; x_wconf 59' lang='lat' dir='ltr'><strong>monog</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 262 2249 309 2319; x_wconf 76' lang='lat' dir='ltr'>‘n</span> <span class='ocrx_word' id='word_1_12' title='bbox 249 2388 301 2390; x_wconf 69' lang='grc' dir='ltr'>ᾖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 136 630 187 796">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 136 630 187 796">
+     <span class='ocr_line' id='line_1_4' title="bbox 136 630 187 796; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 136 630 187 796; x_wconf 62' lang='grc' dir='ltr'>989θῖ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
